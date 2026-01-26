@@ -2,10 +2,11 @@ body {
   background-color: powderblue;
 }
 h1 {
+  background-color: #3944BC
   padding: 35px;
   text-align: center;
-  background-color: snow;
 }
-h2, h3 {
+h2, h3, h4 {
+  background-color: #63C5DA;
   text-align: center;
 }
