@@ -1,19 +1,29 @@
 body {
-  background-color: powderblue;
+  background-color: #B5E4FF;
 }
 
 h1 {
-  background-color: #3944BC;
-  padding: 35px;
+  background-color: #B5E4FF;
+  color: #14025C;
+  padding: 50px;
   text-align: center;
 }
 
-h2, h3, h4 {
-  background-color: #63C5DA;
+h2 {
+  background-color: #B5E4FF;
+  color: #145575;
+  text-align: center;
+}
+
+h3, h4 {
+  background-color: #B5E4FF;
+  color: #14025C;
+  padding: 10px;
   text-align: center;
 }
 
 p {
+  color: #145575;
   max-width: 60%; /*Paragraph never gets wider than 60% of the screen*/
   margin: 0 auto; /* centers it horizontally*/
 }
