@@ -1,2 +1,2 @@
-#I didnt really recieve feedback
+# I didnt really recieve feedback
 I changed my colors around because I didnt like the black, but in the end it made my paragraphs harder to read. I wanted to try and make it look as similar to my Figma page as possible from what we have learned so far and I think I achieved that.
