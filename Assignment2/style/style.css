@@ -43,4 +43,11 @@ h4{
   color: #dff0fb
 }
 
+li{
+  list-style-type: none;
+  color: #dff0fb;
+  display: inline-block;
+  font-family: Georgia, serif;
+}
+
 /* failed to commit */
