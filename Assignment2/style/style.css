@@ -27,7 +27,7 @@ h2 {
   text-align: center;
 }
 
-h3, h4 {
+h3 {
   color: #14025C;
   padding: 10px;
   text-align: center;
@@ -39,7 +39,7 @@ p {
   margin: 0 auto; /* centers it horizontally Making sure it updates*/
 }
 
-footer{
+h4{
   color: #dff0fb
 }
 
