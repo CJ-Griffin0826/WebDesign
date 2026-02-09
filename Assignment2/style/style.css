@@ -38,3 +38,7 @@ p {
   max-width: 60%; /*Paragraph never gets wider than 60% of the screen*/
   margin: 0 auto; /* centers it horizontally Making sure it updates*/
 }
+
+footer{
+  color: #dff0fb
+}
