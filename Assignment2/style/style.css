@@ -62,7 +62,7 @@ nav{
 
 .center-image{
   background-color: #B5E4FF;
-  margin-left: center;
-  margin-right: center;
-  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
 }
