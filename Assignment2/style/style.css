@@ -1,0 +1,33 @@
+body {
+  background-color: #B5E4FF;
+}
+
+.header{
+  border: 1px #14025C;
+  padding: 35px;
+  text-align: center;
+  background-color: #dff0fb;
+}
+
+h1 {
+  color: #14025C;
+  padding: 50px;
+  text-align: center;
+}
+
+h2 {
+  color: #145575;
+  text-align: center;
+}
+
+h3, h4 {
+  color: #14025C;
+  padding: 10px;
+  text-align: center;
+}
+
+p {
+  color: #145575;
+  max-width: 60%; /*Paragraph never gets wider than 60% of the screen*/
+  margin: 0 auto; /* centers it horizontally Making sure it updates*/
+}
