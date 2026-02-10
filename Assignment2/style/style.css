@@ -60,6 +60,14 @@ nav{
   text-align: center;
 }
 
+ul{
+  list-style-type: none;
+  color: #dff0fb;
+  display: inline-block;
+  font-family: Georgia, serif;
+  text-align: center;  
+}
+
 .center-image{
   background-color: #dff0fb;
   margin-left: auto;
