@@ -129,7 +129,7 @@ input[type="text"],
 button{
   margin-top: 20px;
   background-color:#dff0fb;
-  color: white;
+  color:#145575;
   padding: 10px 20px;
   font-size: 1rem;
   border: none;
@@ -139,4 +139,25 @@ button{
 
 button:hover{
   background-color:#dff0fb;
+}
+
+table{
+  width: 78%;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  background-color:#dff0fb;
+  border: 1px solid #14025C;
+  border-radius: 4px;
+}
+
+th, td{
+  padding: 12px;
+  border: 1px solid #14025C;
+  text-align: left;
+}
+
+th{
+  background-color:#dff0fb;
+  font-weight: bold;
+  color:#145575
 }
