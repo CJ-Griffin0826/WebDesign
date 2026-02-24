@@ -1,0 +1,142 @@
+body {
+  background-color: #14025C;
+}
+
+header{
+  border: 3px #14025C;
+  padding: 35px;
+  text-align: center;
+  background-color: #dff0fb;
+}
+
+.chapter-heading{
+  border: 3px #14025C;
+  padding: 35px;
+  text-align: center;
+  background-color: #B5E4FF;
+}
+
+h1 {
+  color: #14025C;
+  padding: 50px;
+  text-align: center;
+}
+
+h2 {
+  color: #145575;
+  text-align: center;
+}
+
+h3 {
+  color: #14025C;
+  padding: 10px;
+  text-align: center;
+}
+
+p {
+  color: #145575;
+  max-width: 60%; /*Paragraph never gets wider than 60% of the screen*/
+  margin: 0 auto; /* centers it horizontally Making sure it updates*/
+  font-family :Sans-serif
+}
+
+h4{
+  color: #dff0fb
+}
+
+li{
+  list-style-type: none;
+  color: #dff0fb;
+  display: inline-block;
+  font-family: Georgia, serif;
+  text-align: center;
+}
+
+nav{
+  list-style-type: none;
+  color: #dff0fb;
+  display: inline-block;
+  font-family: Georgia, serif;
+  text-align: center;
+}
+
+ul{
+  list-style-type: none;
+  color: #dff0fb;
+  display: inline-block;
+  font-family: Georgia, serif;
+  text-align: center;  
+}
+
+.center-image{
+  background-color: #dff0fb;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+
+.center-bird{
+  background-color: #dff0fb;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+
+form{
+  background-color:#dff0fb;
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid #14025C;
+  width: 75%;
+  margin: 0 auto;
+}
+
+fieldset{
+  border: none;
+  padding: 0;
+}
+
+legend{
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+label{
+  display: block;
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+input[type="text"]
+input[type="email"]
+input[type="radio"]
+input[type="checkbox"]
+
+input[type="text"],
+  input[type="email"],
+  select{
+    width: 100%;
+    margin: 0 auto;
+    padding: 8px;
+    margin-top: 5px;
+    font-size: 1rem;
+    border: 1px solid #14025C;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+
+button{
+  margin-top: 20px;
+  background-color:#dff0fb;
+  color: white;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover{
+  background-color:#dff0fb;
+}

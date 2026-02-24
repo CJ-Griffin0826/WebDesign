@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Blue Prince Homepage</title> 
+    <link rel="stylesheet" href="style/style.css"> 
+</head>
+
+<body>
+
+<nav>
+<ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="info.html">Info</a></li>
+    <li><a href="favorites.html">Favorites</a></li>
+</ul>
+</nav>
+
+<form>
+
+    <fieldset>
+
+        <legend>Favorite Game Survey</legend>
+
+        <label>Your Name:</label>
+        <input type="text" name="name" placeholder="e.g. Simon P. Jones">
+
+        <label>Email Address:</label>
+        <input type="email" name="email" placeholder="e.g something@something.com">
+
+        <label>Submit Your Favorite Game:</label>
+        <input type="text" name="favorite-game" placeholder="Type your favorite game here!">
+
+        <label>Favorite Genre:</label> <!--Dropdown Label-->
+        <select name="genre">
+            <option value="puzzle">Puzzle</option>
+            <option value="platformer">Platformer</option>
+            <option value="metroidvania">Metroidvania</option>
+            <option value="first=person-shooter">First-Person-Shooter</option>
+            <option value="horror">Horror</option>
+            <option value="visual novel">Visual Novel</option>
+        </select>
+
+        <p>Preferred Format:</p>
+            <label><input type="radio" name="format" value="PC">PC</label>
+            <label><input type="radio" name="format" value="console">Console</label>
+            <label><input type="radio" name="format" value="mobile">Mobile</label>
+            <label><input type="radio" name="format" value="VR">Virtual Reality</label>
+            
+            <label><input type="checkbox" name="subscribe" value="yes">Subscribe to our monthly Game newsletter?</label>
+        <button type="submit">Submit</button>
+
+    </fieldset>
+
+</form>
+
+</body>
+</html>
