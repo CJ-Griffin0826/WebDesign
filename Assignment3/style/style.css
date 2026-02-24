@@ -161,3 +161,9 @@ th{
   font-weight: bold;
   color:#145575
 }
+
+p2{
+  display: block;
+  margin-top: 15px;
+  font-weight: bold; 
+}
