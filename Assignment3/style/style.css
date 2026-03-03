@@ -68,6 +68,14 @@ ul{
   text-align: center;  
 }
 
+a{
+  list-style-type: none;
+  color: #dff0fb;
+  display: inline-block;
+  font-family: Georgia, serif;
+  text-align: center;
+}
+
 .center-image{
   background-color: #dff0fb;
   margin-left: auto;
@@ -166,4 +174,8 @@ p2{
   display: block;
   margin-top: 15px;
   font-weight: bold; 
+}
+
+time{
+  color:#B5E4FF
 }
