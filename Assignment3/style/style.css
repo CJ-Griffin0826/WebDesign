@@ -20,7 +20,7 @@ header{
   border: 3px #14025C;
   padding: 35px;
   text-align: center;
-  background-color: #B5E4FF;
+  background-color: #dff0fb;
   font-family: 'Ewert', serif;
 }
 
@@ -29,7 +29,8 @@ h1 {
   padding: 50px;
   text-align: center;
   font-family: 'Ewert', serif;
-  text-size-adjust: 150;
+  text-size-adjust: 150%;
+  text-shadow: #B5E4FF;
 }
 
 h2 {
@@ -189,6 +190,7 @@ p2{
 }
 
 time{
+  opacity: 90%;
   color:#B5E4FF
 }
 
@@ -217,6 +219,7 @@ time{
   margin: 0 auto;
   row-gap: 10px;
   column-gap: 10px;
+  box-shadow: #0e0140;
 }
 
 .gallery img{
@@ -235,7 +238,7 @@ time{
   }
 
   li{
-    display: center;
+    display: block;
     margin: 10px 0;
   }
 
