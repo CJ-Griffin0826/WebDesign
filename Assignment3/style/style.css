@@ -13,6 +13,7 @@ header{
   padding: 35px;
   text-align: center;
   background-color: #dff0fb;
+  font-family: 'Ewer', serif;
 }
 
 .chapter-heading{
@@ -20,23 +21,27 @@ header{
   padding: 35px;
   text-align: center;
   background-color: #B5E4FF;
+  font-family: 'Ewer', serif;
 }
 
 h1 {
   color: #14025C;
   padding: 50px;
   text-align: center;
+  font-family: 'Ewer', serif;
 }
 
 h2 {
   color: #145575;
   text-align: center;
+  font-family: 'Ewer', serif;
 }
 
 h3 {
   color: #14025C;
   padding: 10px;
   text-align: center;
+  font-family: 'Ewer', serif;
 }
 
 p {
