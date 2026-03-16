@@ -47,13 +47,13 @@
     text-decoration: none;
     font-weight: bold;
     color: #8fafa7;
-    margin-top: 10px
+    margin-top: 10px;
 }
 
 .gallery{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-    gap: 20px
+    gap: 20px;
 }
 
 .item{
