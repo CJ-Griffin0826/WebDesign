@@ -77,3 +77,27 @@
     display: flex;
     align-items: center;
 }
+
+nav{
+  list-style-type: none;
+  color: #B5E4FF;
+  display: inline-block;
+  font-family: Georgia, serif;
+  text-align: center;
+}
+
+ul{
+  list-style-type: none;
+  color: #B5E4FF;
+  display: inline-block;
+  font-family: Georgia, serif;
+  text-align: center;
+}
+
+li{
+  list-style-type: none;
+  color: #B5E4FF;
+  display: inline-block;
+  font-family: Georgia, serif;
+  text-align: center;
+}
