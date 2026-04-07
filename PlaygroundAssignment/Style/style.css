@@ -1,0 +1,10 @@
+.card-wrap {
+    display: flex;
+    flex-wrap: space-between;
+    align-items: center;
+
+}
+
+body{
+    background-color: lightsteelblue
+}
