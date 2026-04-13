@@ -219,7 +219,7 @@ a:focus, button:focus, input:focus{
 }
 
 .carousel-item img{
-    max-height: 680px;
+    max-height: max-content;
     object-fit: cover;
     width: 100%;
 }
