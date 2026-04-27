@@ -1,0 +1,1 @@
+Im doing all right. I have a lot of big finals coming up that are way out of my skill range, so I have been bashing my head against the wall trying to learn programs I knew nothing about. Its exciting but also very draining.Thank you for all the help this semester and im excited for the upcoming final!
