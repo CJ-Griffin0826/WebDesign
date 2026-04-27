@@ -223,3 +223,41 @@ a:focus, button:focus, input:focus{
     object-fit: cover;
     width: 100%;
 }
+
+button{
+    transition: all 0.3s ease;
+}
+
+button:hover{
+    transform: scale(1.05);
+}
+
+#popup{
+    position:fixed;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%) scale(0.9);
+
+    opacity:0;
+    pointer-events:none;
+    transition:0.3 ease;
+    background-color:aquamarine;
+    padding:10px;
+    z-index:1000;
+}
+
+#popup.open{
+    opacity:1;
+    pointer-events:auto;
+    transform:translate(-50%,-50%) scale(1);
+}
+
+@keyframes pulse{
+    0%{transform: scale(.97)};
+    50%{transform: scale(1.03)};
+    100%{transform: scale(1)};
+}
+
+#openPopup{
+    animation:pulse 3s ease-in-out infinite;
+}
