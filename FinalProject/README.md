@@ -1,1 +1,5 @@
-Im doing all right. I have a lot of big finals coming up that are way out of my skill range, so I have been bashing my head against the wall trying to learn programs I knew nothing about. Its exciting but also very draining.Thank you for all the help this semester and im excited for the upcoming final!
+I learned the basic understandings of how to set up a site. Despite not having the time to refine it, I fell confident that I am able to make a decent site if given the time.
+
+Im not really proud of this final project at all. While im happy that it exists, I wasnt able to give it the time or thought needed to be a fleshed out website that reflects me as a creative. Despite that, I am happy that I was able to make what I did.
+
+Thank you again for teaching this class!
